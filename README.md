@@ -67,21 +67,21 @@ Riyadh_Aqar_Real_Estate_Analysis/
 
 ## Team Members
 - [Adwa Alshehri]
-- [Team Member 2 Name]
-- [Team Member 3 Name]
-- [Team Member 4 Name]
+- [Abdulkarim Almalki]
+- [Hadeel Almayalm]
+- [Alawi Alalawi]
 
 
 
 ## Data Source
-- Description of data source(s).
-- Link to data or scraping details (if applicable).
+- Kaggel
+- [kaggel >>.](https://www.kaggle.com/datasets/mohammedalsubaie/riyadh-real-estate)
 
 
 
 ## Tools and Libraries
-- Python tools: pandas, numpy, matplotlib, seaborn, .
-- Deployment tools (optional): Streamlit, Power BI, etc.
+- Python tools: pandas, numpy, matplotlib, seaborn, arabic.reshape, BIDI Algorithm 
+- Deployment tools (optional): Streamlit, Power BI, etc
 
 
 
